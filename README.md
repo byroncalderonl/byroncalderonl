@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 ## Soy Byron Calderón
-### Arquitecto de software Proceso
+### Arquitecto de software en Proceso
 
 ---
 
